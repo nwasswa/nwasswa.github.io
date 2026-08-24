@@ -81,5 +81,5 @@ He is interested in an Africa where technology is not adopted simply because it 
 
 As AI and other transformative technologies accelerate, he believes Africa needs stronger local research, better data infrastructure, deeper technical expertise, thoughtful governance, and meaningful participation in global technology conversations.
 
-His broader vision is to contribute to an Africa where technology is developed and applied in the public interest —improving health and wellbeing, strengthening institutions, protecting communities and the environment, and advancing inclusive and sustainable development.
+*His broader vision is to contribute to an Africa where technology is developed and applied in the public interest —improving health and wellbeing, strengthening institutions, protecting communities and the environment, and advancing inclusive and sustainable development.*
 ------
