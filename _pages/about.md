@@ -34,7 +34,7 @@ He is interested not only in what emerging technologies can do, but also in:
 * How African countries can build the technical capacity to engage meaningfully with transformative technologies
 * How innovation can contribute to better health, wellbeing, environmental sustainability, and inclusive development
 
-Nelson believes Africa should not simply be a **consumer of technologies developed elsewhere**. African researchers, institutions, policymakers, and communities should have the knowledge, evidence, technical capacity, and agency to **understand, evaluate, shape, govern, and responsibly apply emerging technologies**.
+Nelson believes Africa should not simply be a consumer of technologies developed elsewhere. African researchers, institutions, policymakers, and communities should have the knowledge, evidence, technical capacity, and agency to understand, evaluate, shape, govern, and responsibly apply emerging technologies.
 
 ## Building Technology for Public Interest
 
