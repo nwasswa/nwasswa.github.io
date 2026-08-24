@@ -60,15 +60,14 @@ One example is the **LAWUNA Project**, which applies geospatial technologies, dr
 
 Nelson's work has received international recognition.
 
-In **2023, Sodzo Foundation's LAWUNA Project was selected as a finalist in the Environmental Stewardship category of the [.ORG Impact Awards](https://pir.org/org-impact-awards/)**, organized by the **Public Interest Registry (PIR)**, the organization behind the .ORG domain. The project was among the finalists selected from nearly 1,000 applications representing more than 70 countries.
-
+In **2023, Sodzo Foundation's LAWUNA Project was selected as a finalist in the Environmental Stewardship category of the [.ORG Impact Awards](https://pir.org/org-impact-awards/)**, organized by the **[Public Interest Registry (PIR)](https://pir.org/)**, the organization behind the .ORG domain. 
 He was also selected as a **[Shuttleworth Foundation Fellow](https://www.shuttleworthfoundation.org/fellows/nelson-wasswa/)**, recognizing his work using technology and open approaches to address public-interest challenges.
 
 Other highlights of his professional journey include:
 
-* **AidData Summer Fellow**
+* **[AidData Summer Fellow](https://www.aiddata.org/)**
 
-* **Green Ambassador for Climate in Africa**, appointed through Climate Change Africa Opportunities
+* **Green Ambassador for Climate in Africa**, appointed through [Climate Change Africa Opportunities(CCAO)](https://www.climatechangeafricaopportunities.org/en/).
 
 ## Education
 
@@ -76,11 +75,11 @@ Nelson holds a **Bachelor of Science in Computer Science from [Makerere Universi
 
 ## Building African Capacity for the Future
 
-Nelson's work is ultimately about **capacity, agency, and impact**.
+Nelson's work is ultimately about *capacity, agency, and impact*.
 
-He is interested in an Africa where technology is not adopted simply because it is new or powerful, but where institutions and communities have the ability to **understand it, question it, govern it, and use it strategically**.
+He is interested in an Africa where technology is not adopted simply because it is new or powerful, but where institutions and communities have the ability to understand it, question it, govern it, and use it strategically.
 
 As AI and other transformative technologies accelerate, he believes Africa needs stronger local research, better data infrastructure, deeper technical expertise, thoughtful governance, and meaningful participation in global technology conversations.
 
-His broader vision is to contribute to an Africa where technology is **developed and applied in the public interest**—improving health and wellbeing, strengthening institutions, protecting communities and the environment, and advancing inclusive and sustainable development.
+His broader vision is to contribute to an Africa where technology is developed and applied in the public interest —improving health and wellbeing, strengthening institutions, protecting communities and the environment, and advancing inclusive and sustainable development.
 ------
