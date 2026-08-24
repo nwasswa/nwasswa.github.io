@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Executive Profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,45 +8,80 @@ redirect_from:
 ---
 # Nelson Wasswa
 
-**Ugandan Technologist · Researcher · Nonprofit Leader**
+Ugandan Technologist · Researcher · Nonprofit Leader · Champion of Change
 
 Nelson Wasswa is a Ugandan technologist, researcher, and nonprofit leader working at the intersection of **emerging technologies, data, public institutions, and sustainable development in Africa**.
 
-He is the **Founder and Executive Director of [Sodzo Foundation](https://sodzofoundation.org/)**, where he leads initiatives that apply technology, geospatial intelligence, open-source tools, and data-driven approaches to strengthen **evidence-based decision-making, institutional capacity, environmental governance, climate resilience, and public health**.
+He is the **Founder and Executive Director of [Sodzo Foundation](https://sodzofoundation.org/)**, where he leads technology- and evidence-driven initiatives addressing public-interest challenges across **public health, environmental governance, climate resilience, and institutional capacity**.
 
-## Areas of Work
+His work brings together **technology, research, communities, and institutions** to develop practical solutions in contexts where data, technical capacity, and resources are often limited.
 
-Nelson's work is driven by a central question:
+## What Drives His Work
+
+Nelson’s work is driven by a central question:
 
 > **How can African institutions prepare for and responsibly govern rapidly advancing technologies while ensuring that their benefits translate into better public outcomes?**
 
-His experience spans **technology-enabled research, digital public goods, environmental intelligence, community-generated data, and data-driven approaches to public-interest challenges**. He works across the space between technology, research, communities, institutions, and policy, with a focus on translating evidence and emerging technologies into practical and institutionally relevant solutions.
+This question has increasingly shaped his interest in **transformative AI**, particularly its implications for African societies, public institutions, health, development, and governance.
 
-He is particularly interested in the institutional implications of transformative technologies, including the ability of governments and public systems to:
+He is interested not only in what emerging technologies can do, but also in:
 
-* Assess and anticipate technological risks and opportunities
-* Develop effective governance and policy frameworks
-* Build trusted and interoperable data infrastructure
-* Strengthen technical and institutional capabilities
-* Use evidence to improve public decision-making
-* Ensure technological innovation contributes to inclusive and sustainable development
+* Who benefits from them
+* Who gets to shape and govern them
+* How institutions can prepare for technological disruption
+* How communities can participate in technology-driven change
+* How trusted data and evidence can inform decisions
+* How African countries can build the technical capacity to engage meaningfully with transformative technologies
+* How innovation can contribute to better health, wellbeing, environmental sustainability, and inclusive development
 
-## Leadership & Recognition
+Nelson believes Africa should not simply be a **consumer of technologies developed elsewhere**. African researchers, institutions, policymakers, and communities should have the knowledge, evidence, technical capacity, and agency to **understand, evaluate, shape, govern, and responsibly apply emerging technologies**.
 
-Nelson has been recognised through international leadership and fellowship programmes. He was selected as a **[Shuttleworth Foundation Fellow](https://www.shuttleworthfoundation.org/fellows/nelson-wasswa)** and appointed as a **Green Ambassador for Climate in Africa** by **[Climate Change Africa Opportunities (CCAO)](https://www.climatechangeafricaopportunities.org/en)**.
+## Building Technology for Public Interest
 
-He is also a former **[AidData](https://aiddata.org/) Summer Fellow**, a former research associate at the **[Artificial Intelligence & Data Science Lab](https://air.ug/)** at Makerere University in Uganda, and a former offshore **SharePoint Business Analyst and Developer at [Application Training Solutions (ACTS)](https://www.prnewswire.com/news-releases/application-consulting-training-solutions-acts-recognized-as-winner-for-2019-microsoft-us-partner-award-intelligent-cloud--azure-influencer-300877552.html)** in Jacksonville, Florida, USA.
+Nelson's career has evolved from **software development and technology implementation to AI and data science research, geospatial intelligence, environmental technology, and nonprofit leadership**.
+
+His work spans:
+
+* **Artificial intelligence and data science**
+* **Geospatial intelligence and mapping**
+* **Digital public goods and open-source technology**
+* **Community-generated data**
+* **Environmental intelligence**
+* **Public health and wellbeing**
+* **Climate resilience**
+* **Technology governance and institutional capacity**
+* **Evidence-based decision-making**
+
+Through Sodzo Foundation, he works with communities and institutions to translate technology and evidence into practical solutions for real-world challenges.
+
+One example is the **LAWUNA Project**, which applies geospatial technologies, drone and smartphone imagery, and community participation to help address plastic pollution in freshwater ecosystems.
+
+## Recognition
+
+Nelson's work has received international recognition.
+
+In **2023, Sodzo Foundation's LAWUNA Project was selected as a finalist in the Environmental Stewardship category of the [.ORG Impact Awards](https://pir.org/org-impact-awards/)**, organized by the **Public Interest Registry (PIR)**, the organization behind the .ORG domain. The project was among the finalists selected from nearly 1,000 applications representing more than 70 countries.
+
+He was also selected as a **[Shuttleworth Foundation Fellow](https://www.shuttleworthfoundation.org/fellows/nelson-wasswa/)**, recognizing his work using technology and open approaches to address public-interest challenges.
+
+Other highlights of his professional journey include:
+
+* **AidData Summer Fellow**
+* Former Research Associate at the **Artificial Intelligence & Data Science Lab at Makerere University**
+* Former SharePoint Business Analyst and Developer at **Application Consulting & Training Solutions (ACTS)** in Jacksonville, Florida
+* **Green Ambassador for Climate in Africa**, appointed through Climate Change Africa Opportunities
 
 ## Education
 
-Nelson holds a **Bachelor of Science in Computer Science from [Makerere University](https://www.mak.ac.ug/)**.
+Nelson holds a **Bachelor of Science in Computer Science from [Makerere University](https://www.mak.ac.ug/)** in Uganda.
 
 ## Building African Capacity for the Future
 
-Through **Sodzo Foundation** and his broader research, technology, and partnership work, Nelson is committed to strengthening African institutions so they can **anticipate technological disruption, generate trusted evidence, develop appropriate technical capacity, and govern emerging technologies responsibly and in the public interest**.
+Nelson's work is ultimately about **capacity, agency, and impact**.
 
-His broader vision is to contribute to an Africa where technology is not simply adopted, but **understood, governed, and strategically applied to improve lives, strengthen institutions, protect the environment, and advance sustainable development**.
+He is interested in an Africa where technology is not adopted simply because it is new or powerful, but where institutions and communities have the ability to **understand it, question it, govern it, and use it strategically**.
 
+As AI and other transformative technologies accelerate, he believes Africa needs stronger local research, better data infrastructure, deeper technical expertise, thoughtful governance, and meaningful participation in global technology conversations.
 
-
+His broader vision is to contribute to an Africa where technology is **developed and applied in the public interest**—improving health and wellbeing, strengthening institutions, protecting communities and the environment, and advancing inclusive and sustainable development.
 ------
