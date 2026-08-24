@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Nelson Wasswa
+Nelson Wasswa
 
 Ugandan Technologist · Researcher · Nonprofit Leader · Champion of Change
 
-Nelson Wasswa is a Ugandan technologist, researcher, and nonprofit leader working at the intersection of **emerging technologies, data, public institutions, and sustainable development in Africa**.
+Nelson Wasswa is a Ugandan technologist, researcher, and nonprofit leader working at the intersection of *emerging technologies, data, public institutions, and sustainable development in Africa*.
 
 He is the **Founder and Executive Director of [Sodzo Foundation](https://sodzofoundation.org/)**, where he leads technology- and evidence-driven initiatives addressing public-interest challenges across **public health, environmental governance, climate resilience, and institutional capacity**.
 
-His work brings together **technology, research, communities, and institutions** to develop practical solutions in contexts where data, technical capacity, and resources are often limited.
+His work brings together technology, research, communities, and institutions to develop practical solutions in contexts where data, technical capacity, and resources are often limited.
 
 ## What Drives His Work
 
@@ -22,7 +22,7 @@ Nelson’s work is driven by a central question:
 
 > **How can African institutions prepare for and responsibly govern rapidly advancing technologies while ensuring that their benefits translate into better public outcomes?**
 
-This question has increasingly shaped his interest in **transformative AI**, particularly its implications for African societies, public institutions, health, development, and governance.
+This question has increasingly shaped his interest in transformative AI, particularly its implications for African societies, public institutions, health, development, and governance.
 
 He is interested not only in what emerging technologies can do, but also in:
 
@@ -38,25 +38,25 @@ Nelson believes Africa should not simply be a consumer of technologies developed
 
 ## Building Technology for Public Interest
 
-Nelson's career has evolved from **software development and technology implementation to AI and data science research, geospatial intelligence, environmental technology, and nonprofit leadership**.
+Nelson's career has evolved from software development and technology implementation to AI and data science research, geospatial intelligence, environmental technology, and nonprofit leadership.
 
 His work spans:
 
-* **Artificial intelligence and data science**
-* **Geospatial intelligence and mapping**
-* **Digital public goods and open-source technology**
-* **Community-generated data**
-* **Environmental intelligence**
-* **Public health and wellbeing**
-* **Climate resilience**
-* **Technology governance and institutional capacity**
-* **Evidence-based decision-making**
+* Artificial intelligence and data science
+* Geospatial intelligence and mapping
+* Digital public goods and open-source technology
+* Community-generated data
+* Environmental intelligence
+* Public health and wellbeing
+* Climate resilience
+* Technology governance and institutional capacity
+* Evidence-based decision-making
 
 Through Sodzo Foundation, he works with communities and institutions to translate technology and evidence into practical solutions for real-world challenges.
 
 One example is the **LAWUNA Project**, which applies geospatial technologies, drone and smartphone imagery, and community participation to help address plastic pollution in freshwater ecosystems.
 
-## Recognition
+## Leadership & Recognition
 
 Nelson's work has received international recognition.
 
@@ -67,8 +67,7 @@ He was also selected as a **[Shuttleworth Foundation Fellow](https://www.shuttle
 Other highlights of his professional journey include:
 
 * **AidData Summer Fellow**
-* Former Research Associate at the **Artificial Intelligence & Data Science Lab at Makerere University**
-* Former SharePoint Business Analyst and Developer at **Application Consulting & Training Solutions (ACTS)** in Jacksonville, Florida
+
 * **Green Ambassador for Climate in Africa**, appointed through Climate Change Africa Opportunities
 
 ## Education
