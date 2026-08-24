@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+#layout: archive
+#title: "CV"
 #permalink: /cv/
 #url: /files/nelson_cv_2023.pdf
 author_profile: true
