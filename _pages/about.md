@@ -12,7 +12,7 @@ Ugandan Technologist · Researcher · Nonprofit Leader · Champion of Change
 
 Nelson Wasswa is a Ugandan technologist, researcher, and nonprofit leader working at the intersection of *emerging technologies, data, public institutions, and sustainable development in Africa*.
 
-He is the **Founder and Executive Director of [Sodzo Foundation](https://sodzofoundation.org/)**, where he leads technology- and evidence-driven initiatives addressing public-interest challenges across **public health, environmental governance, climate resilience, and institutional capacity**.
+He is the *Founder and Executive Director of [Sodzo Foundation](https://sodzofoundation.org/)*, where he leads technology- and evidence-driven initiatives addressing public-interest challenges across **public health, environmental governance, climate resilience, and institutional capacity**.
 
 His work brings together technology, research, communities, and institutions to develop practical solutions in contexts where data, technical capacity, and resources are often limited.
 
@@ -60,7 +60,7 @@ One example is the **LAWUNA Project**, which applies geospatial technologies, dr
 
 Nelson's work has received international recognition.
 
-In **2023, Sodzo Foundation's LAWUNA Project was selected as a finalist in the Environmental Stewardship category of the [.ORG Impact Awards](https://pir.org/org-impact-awards/)**, organized by the **[Public Interest Registry (PIR)](https://pir.org/)**, the organization behind the .ORG domain. 
+In **2023, Sodzo Foundation's LAWUNA Project was selected as a finalist in the Environmental Stewardship category of the [.ORG Impact Awards](https://pir.org/news-insights/public-interest-registry-announces-2023-org-impact-awards-finalists/)**, organized by the **[Public Interest Registry (PIR)](https://pir.org/)**, the organization behind the .ORG domain. 
 He was also selected as a **[Shuttleworth Foundation Fellow](https://www.shuttleworthfoundation.org/fellows/nelson-wasswa/)**, recognizing his work using technology and open approaches to address public-interest challenges.
 
 Other highlights of his professional journey include:
