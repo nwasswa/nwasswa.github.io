@@ -8,7 +8,7 @@ redirect_from:
 ---
 Nelson Wasswa
 
-Ugandan Technologist · Researcher · Nonprofit Leader · Champion of Change
+Ugandan Technologist · Researcher · Nonprofit Leader · 
 
 Nelson Wasswa is a Ugandan technologist, researcher, and nonprofit leader working at the intersection of *emerging technologies, data, public institutions, and sustainable development in Africa*.
 
